@@ -6,6 +6,7 @@ public class Employee {
     private String lastname;
     private int salary;
 
+
     public Employee(int id, String firstname, String lastname, int salary) {
         this.id = id;
         this.firstname = firstname;

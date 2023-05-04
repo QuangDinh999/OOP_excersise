@@ -1,0 +1,7 @@
+1.tạo một lớp student gồm các thông tin:
+- id
+- name
+- mark
+
++ xây dựng các pt khởi tạo
++ xây dựng các pt khởi tạo mặc định - rỗng
