@@ -4,9 +4,9 @@ public class circle extends shape{
     protected double radius = 1.0;
 
     public circle(){}
-//    public circle(double radius) {
-//        this.radius = radius;
-//    }
+    public circle(double radius) {
+        this.radius = radius;
+    }
 
     public circle(String color, boolean filled, double radius) {
         super(color, filled);
